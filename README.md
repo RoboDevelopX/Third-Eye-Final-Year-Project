@@ -2,7 +2,7 @@
 
 
 # THIRD EYE
-Forensic Face Sketch Construction and Recognition (My B.E. Final Year Project)
+Forensic Face Sketch Construction and Recognition
 
 ## SOURCE CODE
 [Download Source Code](https://drive.google.com/file/d/1GG1F90qRMzmUv6REG8gf6yEtxGcuuXpa/view?usp=sharing)
@@ -24,8 +24,3 @@ In forensic science, it is seen that hand-drawn face sketches are still very lim
 ## PUBLISHED TECHNICAL PAPER
 Read the Technical Paper : http://www.ijitjournal.org/volume-6/issue-4/IJIT-V6I4P2.pdf
 
-![Certificate](https://github.com/imakashsahu/Third-Eye-Final-Year-Project/blob/main/Technical%20Paper%20Certificates/Akash%20Sahu.jpg)
-
-
-## FOR ANY OTHER QUERY
-Email me at ***akasharunsahu@gmail.com***
