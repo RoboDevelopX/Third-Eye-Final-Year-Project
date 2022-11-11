@@ -1,1 +1,1 @@
-# Third-Eye-Final-Year-Project
+# Third-Eye-Project
