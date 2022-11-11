@@ -21,6 +21,3 @@ Watch *[PART 1](https://www.youtube.com/watch?v=wGEEOh1bA2s&ab_channel=AkashSahu
 ## DESCRIPTION/ABSTRACT
 In forensic science, it is seen that hand-drawn face sketches are still very limited and time-consuming when it comes to using them with the latest technologies used for recognition and identification of criminals. In this paper, we present a standalone application which would allow users to create composites face sketch of the suspect without the help of forensic artists using drag and drop feature in the application and can automatically match the drawn composite face sketch with the police database much faster and efficiently using deep learning and cloud infrastructure.
 
-## PUBLISHED TECHNICAL PAPER
-Read the Technical Paper : http://www.ijitjournal.org/volume-6/issue-4/IJIT-V6I4P2.pdf
-
